@@ -1,0 +1,1 @@
+# Azure-image-automation-1
