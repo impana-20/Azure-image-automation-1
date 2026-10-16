@@ -1,0 +1,4 @@
+Project data package:
+- UPVC source images: from PLUMBING.zip
+- PVC source images: from PLUMBING (1).zip
+- Credentials are placeholders only; replace values in .env locally.

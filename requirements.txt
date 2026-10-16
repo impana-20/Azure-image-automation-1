@@ -1,0 +1,5 @@
+azure-storage-blob
+openpyxl
+pandas
+Pillow
+python-dotenv
